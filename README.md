@@ -1,10 +1,10 @@
 # pyplis-notebooks
 
-Collection of jupyter notebooks and tutorial notebooks, that are meant to introduce the pyplis software or highlight some particular features. 
+Collection of jupyter notebooks and tutorial notebooks, that are meant to introduce the pyplis software or highlight some particular features.
 
 ## NOTE
 
-The tutorials are at an early stage, so don't be too surprised if you find this repo in a not too overloaded state. If you are a happy (or super happy, or ...) user of pyplis and if you have ideas or suggestions (or even some example notebooks that could be interesting for others), please get in touch!
+The tutorials are at an early stage, so don't be too surprised if you find this repo in a not too overloaded state. If you are a happy (or super happy, or ...) user of pyplis and if you have ideas or suggestions (or even some example notebooks that could be interesting for others), please get in touch, or submit your ideas via issue or PR!
 
 ## More about pyplis
 
